@@ -1,0 +1,34 @@
+#page-header {
+  background-image: url("/img/banner/b1.jpg");
+  height: 40vh;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#page-header h2,
+#page-header p {
+  color: #fff;
+}
+
+#page-header p {
+  color: #979494;
+}
+
+/* Pagination Section */
+
+#pagination {
+  text-align: center;
+}
+
+#pagination a {
+  text-decoration: none;
+  padding: 15px 20px;
+  background-color: #088178;
+  color: white;
+  border-radius: 4px;
+  font-weight: 600;
+}
