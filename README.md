@@ -8,4 +8,4 @@
 
 + Implemented JavaScript to enhance interactivity, seamlessly enabling the addition of items to the cart upon clicking the "add-to-cart" button.
 
-+ Website can be viewed at this [link.](https://sampath-vinayakh.github.io/Responsive-Ecommerce-Website/).
++ Website can be viewed at this [link.](https://sampath-vinayakh.github.io/Responsive-Ecommerce-Website/)
